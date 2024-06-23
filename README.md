@@ -10,7 +10,7 @@ Welcome to the repository for my Web Development internship at Encryptix! This r
 The repository is organized into individual tasks, each containing relevant files including HTML, CSS, JavaScript and any additional resources. Below is the structure of the tasks:
 
 - **Task 1:**
-  - Lnading page
+  - Landing page
   
 - **Task 2:**
   - Portfolio
