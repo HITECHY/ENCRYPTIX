@@ -16,7 +16,7 @@ The repository is organized into individual tasks, each containing relevant file
   - Portfolio
   
 - **Task 3:**
-  - Job Board
+  - Calculator
 
 
 ## How to Use
